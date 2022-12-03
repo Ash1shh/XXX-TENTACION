@@ -1,0 +1,335 @@
+body {
+    background-image: url(img/Fanmeet.png);
+    color: white;
+    background-size: 1902px;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+
+.cont h1 {
+    font-size: 70px;
+justify-content: center;
+display: flex;
+padding: 0px;
+margin: 45px;
+}
+
+.class {
+    width: 1000px;
+display: flex;
+position: relative;
+left: 375px;
+top: 2px;
+}
+
+.first {
+    position: relative;
+width: 459px;
+height: 54px;
+left: 30px;
+top: 5px;
+}
+
+.first label {
+    font-size: 25px;
+top: 10px;
+position: relative;
+}
+
+.first input {
+    font-size: 20px;
+position: relative;
+top: 10px;
+left: 162px;
+}
+
+.last {
+    position: relative;
+width: 459px;
+height: 54px;
+left: 30px;
+top: 5px;
+}
+
+.last label {
+    font-size: 25px;
+top: 10px;
+position: relative;
+}
+
+.last input {
+    font-size: 20px;
+position: relative;
+top: 10px;
+left: 167px;
+}
+
+.email {
+    position: relative;
+width: 459px;
+height: 54px;
+left: 30px;
+top: 5px;
+}
+
+.email label {
+    font-size: 25px;
+top: 10px;
+position: relative;
+}
+
+.email input {
+    font-size: 20px;
+position: relative;
+top: 10px;
+left: 216px;
+}
+
+.email .eb {
+    font-size: 20px;
+position: relative;
+top: 10px;
+left: 235px;
+}
+
+.pn {
+    position: relative;
+width: 459px;
+height: 54px;
+left: 30px;
+top: 5px;
+}
+
+.pn label {
+    font-size: 25px;
+top: 10px;
+position: relative;
+}
+
+.pn input {
+    font-size: 20px;
+position: relative;
+top: 10px;
+left: 125px;
+}
+
+.dob {
+    position: relative;
+width: 459px;
+height: 54px;
+left: 30px;
+top: 5px;
+}
+
+.dob label {
+    font-size: 25px;
+top: 10px;
+position: relative;
+}
+
+.dob input {
+    font-size: 20px;
+position: relative;
+top: 10px;
+left: 222px;
+}
+
+.gender {
+    position: relative;
+width: 459px;
+height: 54px;
+left: 30px;
+top: 5px;
+}
+
+.gender label {
+    font-size: 25px;
+top: 10px;
+position: relative;
+}
+
+.gender input {
+    font-size: 20px;
+position: relative;
+top: 6px;
+left: 196px;
+}
+
+.gender .m{
+    font-size: 25px;
+position: relative;
+top: 8px;
+left: 196px;
+}
+
+.country {
+    position: relative;
+width: 459px;
+height: 54px;
+left: 30px;
+top: 5px;
+}
+
+.country label {
+    font-size: 25px;
+top: 10px;
+position: relative;
+}
+
+.country select {
+    font-size: 20px;
+    top: -16px;
+    position: relative;
+    left: 278px;
+}
+
+.add {
+    position: relative;
+    width: 512px;
+    height: 247px;
+    left: 30px;
+    top: 5px;
+}
+
+.add label {
+    font-size: 25px;
+top: -150px;
+position: relative;
+}
+
+.add textarea {
+    position: relative;
+top: 5px;
+left: 184px;
+}
+
+.mu {
+    position: relative;
+width: 459px;
+height: 54px;
+left: 30px;
+top: 5px;
+}
+
+.mu label {
+    font-size: 25px;
+top: -38px;
+position: relative;
+left: -3px;
+}
+
+.mu input {
+    font-size: 20px;
+    position: relative;
+    top: -41px;
+    left: 13px;
+}
+
+.mu .y {
+    font-size: 25px;
+    top: -38px;
+    position: relative;
+    left: 12px;
+}
+
+.muc {
+    position: relative;
+width: 583px;
+height: 55px;
+left: 30px;
+top: -45px;
+}
+
+.muc label {
+    font-size: 25px;
+top: 0px;
+position: relative;
+left: -5px;
+}
+
+.muc input {
+    font-size: 20px;
+    position: relative;
+    top: 0px;
+    left: 14px;
+}
+
+.wrapper {
+    position: relative;
+width: 578px;
+height: 223px;
+left: 30px;
+
+}
+
+.field_div {
+    position: relative;
+    top: 11px;
+    height: 163px;
+    left: 5px;
+}
+
+.field_div input{
+    left: 532px;
+position: relative;
+top: -112px;
+font-size: 20px;
+}
+
+.decor {
+    left: 712px;
+position: relative;
+top: -270px;
+font-size: 20px;
+margin: 5px;
+}
+
+.rem {
+    left: 712px;
+    position: relative;
+    top: -270px;
+    font-size: 20px;
+}
+
+.muc .button {
+    font-size: 20px;
+position: relative;
+top: -21px;
+left: 553px;
+}
+
+.ylm {
+    position: relative;
+width: 512px;
+height: 247px;
+left: 24px;
+top: -279px;
+}
+
+.ylm label {
+    font-size: 25px;
+top: -156px;
+position: relative;
+}
+
+.ylm textarea {
+    position: relative;
+    top: 15px;
+    left: 35px;
+}
+
+.b1 {
+    position: relative;
+top: -309px;
+left: 303px;
+font-size: 25px;;
+}
+
+.b2 {
+    position: relative;
+top: -310px;
+left: 319px;
+font-size: 25px;
+}
